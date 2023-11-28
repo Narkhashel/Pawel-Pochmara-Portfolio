@@ -6,9 +6,9 @@ It's a second week of my FrontEnd WEb Development Bootcam. This week Project sup
 
 With time I hope I would turn this little and messsy app into something more worht of a professional webdeveloper, to really show off my skill set and to prove that even someone with zero experience, with enough dedication can learn soemthing as complex as this. 
 
-### [Porfolio]()
+### [Porfolio Link](https://narkhashel.github.io/Pawel-Pochmara-Portfolio/)
 
-[screenshot]
+![screenshot-porfolio](./images/portfoliowebsite-screenshot.png)
 
 
 ## Acceptance Criteria
